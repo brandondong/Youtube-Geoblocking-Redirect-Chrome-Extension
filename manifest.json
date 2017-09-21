@@ -1,0 +1,15 @@
+{  
+   "background":{  
+      "scripts":[  
+         "background.js"
+      ]
+   },
+   "manifest_version":2,
+   "name":"Youtube Geoblocking Redirect Extension",
+   "version":"1.0.0",
+   "description":"Automatically redirects regionally blocked Youtube videos.",
+   "permissions":[  
+      "tabs",
+      "https://www.youtube.com/*"
+   ]
+}
